@@ -1,0 +1,85 @@
+{
+  "_comment": "One entry per robot, newest first. `image` may be a real photo path; leave it blank to show the placeholder. `video` is an optional YouTube video ID.",
+  "robots": [
+    {
+      "year": 2027,
+      "name": "[EDIT: 2027 robot name]",
+      "game": "BIOCORE™ presented by Haas",
+      "description": "Build season begins in January 2027. Check back for the reveal.",
+      "specs": [],
+      "image": "",
+      "video": "",
+      "placeholderCaption": "2027 robot reveal photo"
+    },
+    {
+      "year": 2026,
+      "name": "[EDIT: 2026 robot name]",
+      "game": "REBUILT",
+      "description": "Our first district-era robot played 24 qualification matches across two events and carried us to a 4th-place alliance finish at the Contra Costa District Event — our first playoff run since 2018. Its best match of the season scored 315 points.",
+      "specs": [
+        { "label": "Drivetrain", "value": "[EDIT: e.g. swerve / tank]" },
+        { "label": "Weight", "value": "[EDIT] lbs" },
+        { "label": "Key mechanisms", "value": "[EDIT]" },
+        { "label": "Season result", "value": "4th-place alliance, CA District Contra Costa Event" }
+      ],
+      "image": "",
+      "video": "",
+      "placeholderCaption": "2026 robot on the field"
+    },
+    {
+      "year": 2025,
+      "name": "[EDIT: 2025 robot name]",
+      "game": "REEFSCAPE presented by Haas",
+      "description": "Our REEFSCAPE robot placed PVC \"coral\" on the reef and handled algae on the way to a 5–4–0 record at the East Bay Regional — the team's first winning qualification record since 2018.",
+      "specs": [
+        { "label": "Drivetrain", "value": "[EDIT]" },
+        { "label": "Weight", "value": "[EDIT] lbs" },
+        { "label": "Key mechanisms", "value": "[EDIT: coral manipulator, algae intake, climb]" }
+      ],
+      "image": "",
+      "video": "",
+      "placeholderCaption": "2025 REEFSCAPE robot"
+    },
+    {
+      "year": 2024,
+      "name": "[EDIT: 2024 robot name]",
+      "game": "CRESCENDO presented by Haas",
+      "description": "Built to shoot foam \"notes\" into the speaker and amp, this robot went 6–6–0 at the Sacramento Regional, with a four-match win streak that included an alliance with 1678 Citrus Circuits.",
+      "specs": [
+        { "label": "Drivetrain", "value": "[EDIT]" },
+        { "label": "Weight", "value": "[EDIT] lbs" },
+        { "label": "Key mechanisms", "value": "[EDIT: note intake, shooter, climber]" }
+      ],
+      "image": "",
+      "video": "",
+      "placeholderCaption": "2024 CRESCENDO robot"
+    },
+    {
+      "year": 2018,
+      "name": "Leonidas",
+      "game": "FIRST POWER UP",
+      "description": "Leonidas — the name our robots carried from 2015 through 2023, after the Spartan king — reached the semifinals three years running. The 2018 edition was a first-round pick and helped post a 407-point quarterfinal, the highest score in team history.",
+      "specs": [
+        { "label": "Era", "value": "2015–2023 (name reused across seasons)" },
+        { "label": "Best results", "value": "Semifinalist 2016, 2017 (as alliance captain) and 2018" },
+        { "label": "Sponsors", "value": "Nvidia & De La Salle High School" }
+      ],
+      "image": "",
+      "video": "",
+      "placeholderCaption": "Leonidas, 2016–2018 era"
+    },
+    {
+      "year": 2008,
+      "name": "Sparticus",
+      "game": "FIRST OVERDRIVE",
+      "description": "One of the team's first named robots, from the early Silicon Valley Regional years. Sparticus raced laps and moved 40-inch trackballs in our only two-regional season to include a trip to San Diego.",
+      "specs": [
+        { "label": "Era", "value": "Founding years (2007–2009)" },
+        { "label": "Sponsors", "value": "De La Salle High School, AT&T West" }
+      ],
+      "image": "",
+      "video": "",
+      "placeholderCaption": "Sparticus, founding-era robot"
+    }
+  ]
+}

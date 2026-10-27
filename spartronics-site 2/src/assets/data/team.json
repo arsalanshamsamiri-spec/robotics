@@ -1,0 +1,37 @@
+{
+  "_comment": "Roster for the Our Team page. Students: first name + last initial only. Mentors: full name. `photo` is a path like /assets/img/team/first-l.jpg; leave blank for the branded fallback avatar. Set `placeholder: true` on rows you haven't filled in yet — they render with an 'Add name' note so nothing fake is published by accident.",
+  "season": "2026–27 Season",
+  "sections": [
+    {
+      "title": "Captains",
+      "people": [
+        { "name": "Student Name", "role": "Team Captain", "photo": "", "placeholder": true },
+        { "name": "Student Name", "role": "Co-Captain", "photo": "", "placeholder": true }
+      ]
+    },
+    {
+      "title": "Sub-Team Leads",
+      "people": [
+        { "name": "Student Name", "role": "Mechanical", "photo": "", "placeholder": true },
+        { "name": "Student Name", "role": "Electrical", "photo": "", "placeholder": true },
+        { "name": "Student Name", "role": "Programming", "photo": "", "placeholder": true },
+        { "name": "Student Name", "role": "Design", "photo": "", "placeholder": true },
+        { "name": "Student Name", "role": "Business", "photo": "", "placeholder": true }
+      ]
+    },
+    {
+      "title": "Coach",
+      "people": [
+        { "name": "Coach Name", "role": "Head Coach", "photo": "", "placeholder": true }
+      ]
+    },
+    {
+      "title": "Mentors",
+      "people": [
+        { "name": "Mentor Name", "role": "Mechanical", "photo": "", "placeholder": true },
+        { "name": "Mentor Name", "role": "Programming", "photo": "", "placeholder": true },
+        { "name": "Mentor Name", "role": "Business", "photo": "", "placeholder": true }
+      ]
+    }
+  ]
+}
